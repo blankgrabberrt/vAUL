@@ -1,0 +1,621 @@
+Documents
+└── iZotope
+    ├── RX 8 Audio Editor
+    │   └── Presets
+    │       └── Breath Control
+    └── VocalSynth 2
+        ├── HTML Help
+        │   ├── en
+        │   │   │   index.html
+        │   │   │   
+        │   │   ├── authorization
+        │   │   │       index.html
+        │   │   │       
+        │   │   ├── biovox
+        │   │   │       index.html
+        │   │   │       
+        │   │   ├── chorus
+        │   │   │       index.html
+        │   │   │       
+        │   │   ├── compuvox
+        │   │   │       index.html
+        │   │   │       
+        │   │   ├── customer-care
+        │   │   │       index.html
+        │   │   │       
+        │   │   ├── daw-setup
+        │   │   │       index.html
+        │   │   │       
+        │   │   ├── delay
+        │   │   │       index.html
+        │   │   │       
+        │   │   ├── distort
+        │   │   │       index.html
+        │   │   │       
+        │   │   ├── eula
+        │   │   │       index.html
+        │   │   │       
+        │   │   ├── filter
+        │   │   │       index.html
+        │   │   │       
+        │   │   ├── fonts
+        │   │   │       icon.eot
+        │   │   │       icon.svg
+        │   │   │       icon.ttf
+        │   │   │       icon.woff
+        │   │   │       
+        │   │   ├── general-functions
+        │   │   │       index.html
+        │   │   │       
+        │   │   ├── global-modes
+        │   │   │       index.html
+        │   │   │       
+        │   │   ├── images
+        │   │   │   │   anemone.png
+        │   │   │   │   favicon.ico
+        │   │   │   │   options-auth.png
+        │   │   │   │   options-button.png
+        │   │   │   │   options-footer.png
+        │   │   │   │   options-general.png
+        │   │   │   │   options-updates.png
+        │   │   │   │   options.png
+        │   │   │   │   output.png
+        │   │   │   │   pitch-tab.png
+        │   │   │   │   preset-footer.png
+        │   │   │   │   preset-manager.png
+        │   │   │   │   presets-highlight.png
+        │   │   │   │   vocalsynth-header.svg
+        │   │   │   │   voicing-auto.png
+        │   │   │   │   voicing-midi.png
+        │   │   │   │   wavemeter.png
+        │   │   │   │   xy-btn.png
+        │   │   │   │   xy-pad.png
+        │   │   │   │   
+        │   │   │   ├── attr-imgs
+        │   │   │   │       carrier-nature-of-speech.jpg
+        │   │   │   │       
+        │   │   │   ├── branding
+        │   │   │   │       vs2-banner.png
+        │   │   │   │       
+        │   │   │   ├── daw-setup
+        │   │   │   │   ├── cubase
+        │   │   │   │   │       auto-step1.png
+        │   │   │   │   │       midi-step1.png
+        │   │   │   │   │       midi-step2.png
+        │   │   │   │   │       midi-step3.png
+        │   │   │   │   │       midi-step4.png
+        │   │   │   │   │       sc-step1.png
+        │   │   │   │   │       sc-step2.png
+        │   │   │   │   │       sc-step3.png
+        │   │   │   │   │       
+        │   │   │   │   ├── fl
+        │   │   │   │   │       auto-step1.png
+        │   │   │   │   │       midi-step1.png
+        │   │   │   │   │       midi-step2.png
+        │   │   │   │   │       midi-step3.png
+        │   │   │   │   │       sc-step1.png
+        │   │   │   │   │       sc-step2.png
+        │   │   │   │   │       sc-step3.png
+        │   │   │   │   │       sc-step4.png
+        │   │   │   │   │       
+        │   │   │   │   ├── live
+        │   │   │   │   │       midi-step2.png
+        │   │   │   │   │       midi-step3.png
+        │   │   │   │   │       sc-step2.png
+        │   │   │   │   │       sc-step3.png
+        │   │   │   │   │       step1.png
+        │   │   │   │   │       
+        │   │   │   │   ├── logic
+        │   │   │   │   │       auto-step1.png
+        │   │   │   │   │       midi-step1.png
+        │   │   │   │   │       midi-step2.png
+        │   │   │   │   │       midi-step3.png
+        │   │   │   │   │       midi-step4.png
+        │   │   │   │   │       sc-step1.png
+        │   │   │   │   │       sc-step2.png
+        │   │   │   │   │       sc-step3.png
+        │   │   │   │   │       sc-step4.png
+        │   │   │   │   │       
+        │   │   │   │   ├── pro-tools
+        │   │   │   │   │       auto-step1.png
+        │   │   │   │   │       midi-step1.png
+        │   │   │   │   │       midi-step2.png
+        │   │   │   │   │       midi-step3.png
+        │   │   │   │   │       sc-step1.png
+        │   │   │   │   │       sc-step2.png
+        │   │   │   │   │       sc-step3.png
+        │   │   │   │   │       sc-step4.png
+        │   │   │   │   │       
+        │   │   │   │   ├── reaper
+        │   │   │   │   │       auto-step1.png
+        │   │   │   │   │       midi-step1.png
+        │   │   │   │   │       midi-step2.png
+        │   │   │   │   │       midi-step3.png
+        │   │   │   │   │       sc-step1.png
+        │   │   │   │   │       sc-step2.png
+        │   │   │   │   │       sc-step3.png
+        │   │   │   │   │       sc-step4.png
+        │   │   │   │   │       
+        │   │   │   │   ├── reason
+        │   │   │   │   │       auto-step1.png
+        │   │   │   │   │       midi-step1.png
+        │   │   │   │   │       midi-step2.png
+        │   │   │   │   │       midi-step3.png
+        │   │   │   │   │       midi-step4.png
+        │   │   │   │   │       sc-step1.png
+        │   │   │   │   │       sc-step2.png
+        │   │   │   │   │       sc-step3.png
+        │   │   │   │   │       sc-step4.png
+        │   │   │   │   │       
+        │   │   │   │   └── studio-one
+        │   │   │   │           auto-step1.png
+        │   │   │   │           midi-step1.png
+        │   │   │   │           midi-step2.png
+        │   │   │   │           midi-step3.png
+        │   │   │   │           sc-step1.png
+        │   │   │   │           sc-step2.png
+        │   │   │   │           sc-step3.png
+        │   │   │   │           sc-step4.png
+        │   │   │   │           
+        │   │   │   ├── fx
+        │   │   │   │       chorus.png
+        │   │   │   │       delay.png
+        │   │   │   │       distort.png
+        │   │   │   │       filter.png
+        │   │   │   │       ring-mod.png
+        │   │   │   │       shred.png
+        │   │   │   │       transform.png
+        │   │   │   │       
+        │   │   │   ├── global-modes
+        │   │   │   │       auto-btn.png
+        │   │   │   │       midi-btn.png
+        │   │   │   │       mode-btn-selected.png
+        │   │   │   │       sc-btn.png
+        │   │   │   │       
+        │   │   │   ├── guide
+        │   │   │   │       1-plugin-name.png
+        │   │   │   │       10-polyvox.png
+        │   │   │   │       11-pitch.png
+        │   │   │   │       12-voicing.png
+        │   │   │   │       13-visual-xy-switch.png
+        │   │   │   │       14-output.png
+        │   │   │   │       15-fx-chain.png
+        │   │   │   │       2-global-mode.png
+        │   │   │   │       3-presets.png
+        │   │   │   │       4-presets-next-previous.png
+        │   │   │   │       5-options-help.png
+        │   │   │   │       6-biovox.png
+        │   │   │   │       7-vocoder.png
+        │   │   │   │       8-compuvox.png
+        │   │   │   │       9-talkbox.png
+        │   │   │   │       a-fx-distort.png
+        │   │   │   │       b-fx-filter.png
+        │   │   │   │       c-fx-transform.png
+        │   │   │   │       d-fx-shred.png
+        │   │   │   │       e-fx-chorus.png
+        │   │   │   │       f-fx-delay.png
+        │   │   │   │       g-fx-ring-mod.png
+        │   │   │   │       guide-main.png
+        │   │   │   │       
+        │   │   │   └── modules
+        │   │   │           adv-btn.png
+        │   │   │           adv-syn-preset.png
+        │   │   │           bvx-adv-mix.png
+        │   │   │           bvx-adv-syn-lfo.png
+        │   │   │           bvx-adv-syn-noise.png
+        │   │   │           bvx-adv-syn-osc1.png
+        │   │   │           bvx-adv-syn-osc2.png
+        │   │   │           bvx-adv-syn.png
+        │   │   │           bvx-adv-vowel.png
+        │   │   │           bvx-adv.png
+        │   │   │           cvx-adv-mix.png
+        │   │   │           cvx-adv-syn-lfo.png
+        │   │   │           cvx-adv-syn-noise.png
+        │   │   │           cvx-adv-syn-osc1.png
+        │   │   │           cvx-adv-syn-osc2.png
+        │   │   │           cvx-adv-syn.png
+        │   │   │           cvx-adv.png
+        │   │   │           main-bvx.png
+        │   │   │           main-cvx.png
+        │   │   │           main-plyvx.png
+        │   │   │           main-tbx.png
+        │   │   │           main-vcdr.png
+        │   │   │           plyvx-adv.png
+        │   │   │           synth-preset-display.png
+        │   │   │           tbx-adv-mix.png
+        │   │   │           tbx-adv-syn-lfo.png
+        │   │   │           tbx-adv-syn-noise.png
+        │   │   │           tbx-adv-syn-osc1.png
+        │   │   │           tbx-adv-syn-osc2.png
+        │   │   │           tbx-adv-syn.png
+        │   │   │           tbx-adv.png
+        │   │   │           vcdr-adv-bands.png
+        │   │   │           vcdr-adv-mix.png
+        │   │   │           vcdr-adv-syn-lfo.png
+        │   │   │           vcdr-adv-syn-noise.png
+        │   │   │           vcdr-adv-syn-osc1.png
+        │   │   │           vcdr-adv-syn-osc2.png
+        │   │   │           vcdr-adv-syn.png
+        │   │   │           vcdr-adv.png
+        │   │   │           
+        │   │   ├── interface-guide
+        │   │   │       index.html
+        │   │   │       
+        │   │   ├── javascripts
+        │   │   │       application.js
+        │   │   │       ie7.js
+        │   │   │       modernizr.js
+        │   │   │       
+        │   │   ├── license-information
+        │   │   │       index.html
+        │   │   │       
+        │   │   ├── options
+        │   │   │       index.html
+        │   │   │       
+        │   │   ├── pitch-and-voicing
+        │   │   │       index.html
+        │   │   │       
+        │   │   ├── polyvox
+        │   │   │       index.html
+        │   │   │       
+        │   │   ├── presets
+        │   │   │       index.html
+        │   │   │       
+        │   │   ├── print
+        │   │   │       index.html
+        │   │   │       
+        │   │   ├── ring-mod
+        │   │   │       index.html
+        │   │   │       
+        │   │   ├── search
+        │   │   │       index.html
+        │   │   │       
+        │   │   ├── shred
+        │   │   │       index.html
+        │   │   │       
+        │   │   ├── stylesheets
+        │   │   │   │   application.css
+        │   │   │   │   ie7.css
+        │   │   │   │   palettes.css
+        │   │   │   │   style_print.css
+        │   │   │   │   vs-custom.css
+        │   │   │   │   
+        │   │   │   └── highlight
+        │   │   │           highlight.css
+        │   │   │           
+        │   │   ├── talkbox
+        │   │   │       index.html
+        │   │   │       
+        │   │   ├── tipuesearch
+        │   │   │   │   tipuesearch.min.js
+        │   │   │   │   tipuesearch_content_en.js
+        │   │   │   │   tipuesearch_set.js
+        │   │   │   │   
+        │   │   │   └── css
+        │   │   │           normalize.css
+        │   │   │           tipuesearch.css
+        │   │   │           
+        │   │   ├── transform
+        │   │   │       index.html
+        │   │   │       
+        │   │   └── vocoder
+        │   │           index.html
+        │   │           
+        │   └── ja
+        │       │   index.html
+        │       │   
+        │       ├── authorization
+        │       │       index.html
+        │       │       
+        │       ├── biovox
+        │       │       index.html
+        │       │       
+        │       ├── chorus
+        │       │       index.html
+        │       │       
+        │       ├── compuvox
+        │       │       index.html
+        │       │       
+        │       ├── customer-care
+        │       │       index.html
+        │       │       
+        │       ├── daw-setup
+        │       │       index.html
+        │       │       
+        │       ├── delay
+        │       │       index.html
+        │       │       
+        │       ├── distort
+        │       │       index.html
+        │       │       
+        │       ├── eula
+        │       │       index.html
+        │       │       
+        │       ├── filter
+        │       │       index.html
+        │       │       
+        │       ├── fonts
+        │       │       icon.eot
+        │       │       icon.svg
+        │       │       icon.ttf
+        │       │       icon.woff
+        │       │       
+        │       ├── general-functions
+        │       │       index.html
+        │       │       
+        │       ├── global-modes
+        │       │       index.html
+        │       │       
+        │       ├── images
+        │       │   │   anemone.png
+        │       │   │   favicon.ico
+        │       │   │   options-button.png
+        │       │   │   options-footer.png
+        │       │   │   options-updates.png
+        │       │   │   options.png
+        │       │   │   output.png
+        │       │   │   pitch-tab.png
+        │       │   │   preset-footer.png
+        │       │   │   preset-manager.png
+        │       │   │   presets-highlight.png
+        │       │   │   vocalsynth-header.svg
+        │       │   │   voicing-auto.png
+        │       │   │   voicing-midi.png
+        │       │   │   wavemeter.png
+        │       │   │   xy-btn.png
+        │       │   │   xy-pad.png
+        │       │   │   
+        │       │   ├── attr-imgs
+        │       │   │       carrier-nature-of-speech.jpg
+        │       │   │       
+        │       │   ├── branding
+        │       │   │       vs2-banner.png
+        │       │   │       
+        │       │   ├── daw-setup
+        │       │   │   ├── cubase
+        │       │   │   │       auto-step1.png
+        │       │   │   │       midi-step1.png
+        │       │   │   │       midi-step2.png
+        │       │   │   │       midi-step3.png
+        │       │   │   │       midi-step4.png
+        │       │   │   │       sc-step1.png
+        │       │   │   │       sc-step2.png
+        │       │   │   │       sc-step3.png
+        │       │   │   │       
+        │       │   │   ├── fl
+        │       │   │   │       auto-step1.png
+        │       │   │   │       midi-step1.png
+        │       │   │   │       midi-step2.png
+        │       │   │   │       midi-step3.png
+        │       │   │   │       sc-step1.png
+        │       │   │   │       sc-step2.png
+        │       │   │   │       sc-step3.png
+        │       │   │   │       sc-step4.png
+        │       │   │   │       
+        │       │   │   ├── live
+        │       │   │   │       midi-step2.png
+        │       │   │   │       midi-step3.png
+        │       │   │   │       sc-step2.png
+        │       │   │   │       sc-step3.png
+        │       │   │   │       step1.png
+        │       │   │   │       
+        │       │   │   ├── logic
+        │       │   │   │       auto-step1.png
+        │       │   │   │       midi-step1.png
+        │       │   │   │       midi-step2.png
+        │       │   │   │       midi-step3.png
+        │       │   │   │       midi-step4.png
+        │       │   │   │       sc-step1.png
+        │       │   │   │       sc-step2.png
+        │       │   │   │       sc-step3.png
+        │       │   │   │       sc-step4.png
+        │       │   │   │       
+        │       │   │   ├── pro-tools
+        │       │   │   │       auto-step1.png
+        │       │   │   │       midi-step1.png
+        │       │   │   │       midi-step2.png
+        │       │   │   │       midi-step3.png
+        │       │   │   │       sc-step1.png
+        │       │   │   │       sc-step2.png
+        │       │   │   │       sc-step3.png
+        │       │   │   │       sc-step4.png
+        │       │   │   │       
+        │       │   │   ├── reaper
+        │       │   │   │       auto-step1.png
+        │       │   │   │       midi-step1.png
+        │       │   │   │       midi-step2.png
+        │       │   │   │       midi-step3.png
+        │       │   │   │       sc-step1.png
+        │       │   │   │       sc-step2.png
+        │       │   │   │       sc-step3.png
+        │       │   │   │       sc-step4.png
+        │       │   │   │       
+        │       │   │   ├── reason
+        │       │   │   │       auto-step1.png
+        │       │   │   │       midi-step1.png
+        │       │   │   │       midi-step2.png
+        │       │   │   │       midi-step3.png
+        │       │   │   │       midi-step4.png
+        │       │   │   │       sc-step1.png
+        │       │   │   │       sc-step2.png
+        │       │   │   │       sc-step3.png
+        │       │   │   │       sc-step4.png
+        │       │   │   │       
+        │       │   │   └── studio-one
+        │       │   │           auto-step1.png
+        │       │   │           midi-step1.png
+        │       │   │           midi-step2.png
+        │       │   │           midi-step3.png
+        │       │   │           sc-step1.png
+        │       │   │           sc-step2.png
+        │       │   │           sc-step3.png
+        │       │   │           sc-step4.png
+        │       │   │           
+        │       │   ├── fx
+        │       │   │       chorus.png
+        │       │   │       delay.png
+        │       │   │       distort.png
+        │       │   │       filter.png
+        │       │   │       ring-mod.png
+        │       │   │       shred.png
+        │       │   │       transform.png
+        │       │   │       
+        │       │   ├── global-modes
+        │       │   │       auto-btn.png
+        │       │   │       midi-btn.png
+        │       │   │       mode-btn-selected.png
+        │       │   │       sc-btn.png
+        │       │   │       
+        │       │   ├── guide
+        │       │   │       1-plugin-name.png
+        │       │   │       10-polyvox.png
+        │       │   │       11-pitch.png
+        │       │   │       12-voicing.png
+        │       │   │       13-visual-xy-switch.png
+        │       │   │       14-output.png
+        │       │   │       15-fx-chain.png
+        │       │   │       2-global-mode.png
+        │       │   │       3-presets.png
+        │       │   │       4-presets-next-previous.png
+        │       │   │       5-options-help.png
+        │       │   │       6-biovox.png
+        │       │   │       7-vocoder.png
+        │       │   │       8-compuvox.png
+        │       │   │       9-talkbox.png
+        │       │   │       a-fx-distort.png
+        │       │   │       b-fx-filter.png
+        │       │   │       c-fx-transform.png
+        │       │   │       d-fx-shred.png
+        │       │   │       e-fx-chorus.png
+        │       │   │       f-fx-delay.png
+        │       │   │       g-fx-ring-mod.png
+        │       │   │       guide-main.png
+        │       │   │       
+        │       │   └── modules
+        │       │           adv-btn.png
+        │       │           adv-syn-preset.png
+        │       │           bvx-adv-mix.png
+        │       │           bvx-adv-syn-lfo.png
+        │       │           bvx-adv-syn-noise.png
+        │       │           bvx-adv-syn-osc1.png
+        │       │           bvx-adv-syn-osc2.png
+        │       │           bvx-adv-syn.png
+        │       │           bvx-adv-vowel.png
+        │       │           bvx-adv.png
+        │       │           cvx-adv-mix.png
+        │       │           cvx-adv-syn-lfo.png
+        │       │           cvx-adv-syn-noise.png
+        │       │           cvx-adv-syn-osc1.png
+        │       │           cvx-adv-syn-osc2.png
+        │       │           cvx-adv-syn.png
+        │       │           cvx-adv.png
+        │       │           main-bvx.png
+        │       │           main-cvx.png
+        │       │           main-plyvx.png
+        │       │           main-tbx.png
+        │       │           main-vcdr.png
+        │       │           plyvx-adv.png
+        │       │           synth-preset-display.png
+        │       │           tbx-adv-mix.png
+        │       │           tbx-adv-syn-lfo.png
+        │       │           tbx-adv-syn-noise.png
+        │       │           tbx-adv-syn-osc1.png
+        │       │           tbx-adv-syn-osc2.png
+        │       │           tbx-adv-syn.png
+        │       │           tbx-adv.png
+        │       │           vcdr-adv-bands.png
+        │       │           vcdr-adv-mix.png
+        │       │           vcdr-adv-syn-lfo.png
+        │       │           vcdr-adv-syn-noise.png
+        │       │           vcdr-adv-syn-osc1.png
+        │       │           vcdr-adv-syn-osc2.png
+        │       │           vcdr-adv-syn.png
+        │       │           vcdr-adv.png
+        │       │           
+        │       ├── interface-guide
+        │       │       index.html
+        │       │       
+        │       ├── javascripts
+        │       │       application.js
+        │       │       ie7.js
+        │       │       modernizr.js
+        │       │       
+        │       ├── license-information
+        │       │       index.html
+        │       │       
+        │       ├── options
+        │       │       index.html
+        │       │       
+        │       ├── pitch-and-voicing
+        │       │       index.html
+        │       │       
+        │       ├── polyvox
+        │       │       index.html
+        │       │       
+        │       ├── presets
+        │       │       index.html
+        │       │       
+        │       ├── print
+        │       │       index.html
+        │       │       
+        │       ├── ring-mod
+        │       │       index.html
+        │       │       
+        │       ├── search
+        │       │       index.html
+        │       │       
+        │       ├── shred
+        │       │       index.html
+        │       │       
+        │       ├── stylesheets
+        │       │   │   application.css
+        │       │   │   ie7.css
+        │       │   │   palettes.css
+        │       │   │   style_print.css
+        │       │   │   vs-custom.css
+        │       │   │   
+        │       │   └── highlight
+        │       │           highlight.css
+        │       │           
+        │       ├── talkbox
+        │       │       index.html
+        │       │       
+        │       ├── tipuesearch
+        │       │   │   tipuesearch.min.js
+        │       │   │   tipuesearch_content_ja.js
+        │       │   │   tipuesearch_set.js
+        │       │   │   
+        │       │   └── css
+        │       │           normalize.css
+        │       │           tipuesearch.css
+        │       │           
+        │       ├── transform
+        │       │       index.html
+        │       │       
+        │       └── vocoder
+        │               index.html
+        │               
+        └── Synth Patches
+                Altered Bots.vfpatch
+                Basic Syntax.vfpatch
+                Bass Grater.vfpatch
+                Bug Repellent.vfpatch
+                Classic Bahns.vfpatch
+                Default.vfpatch
+                Elliot's Modem.vfpatch
+                Epoxy House.vfpatch
+                Fifth Sense.vfpatch
+                Gang o' Bees.vfpatch
+                Glitchy Squares.vfpatch
+                Hollow Tube.vfpatch
+                Hushed Murmur.vfpatch
+                Math Blaster.vfpatch
+                Mr. Square.vfpatch
+                Planet Galaxy.vfpatch
+                Plastic Astros.vfpatch
+                Quirky Creature.vfpatch
+                Running Blade.vfpatch
+                Shorted Johnny.vfpatch
+                The Russell.vfpatch
+                Your Base.vfpatch
+                

@@ -1,0 +1,54 @@
+Host Name:                 DESKTOP-8ICD6L6
+OS Name:                   Microsoft Windows 11 Home
+OS Version:                10.0.22621 N/A Build 22621
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Standalone Workstation
+OS Build Type:             Multiprocessor Free
+Registered Owner:          cagent683@gmail.com
+Registered Organization:   N/A
+Product ID:                00325-81905-04998-AAOEM
+Original Install Date:     9/22/2022, 9:55:14 PM
+System Boot Time:          6/20/2023, 2:58:03 AM
+System Manufacturer:       ASUSTeK COMPUTER INC.
+System Model:              ROG Strix G15CX_G15CX
+System Type:               x64-based PC
+Processor(s):              1 Processor(s) Installed.
+                           [01]: Intel64 Family 6 Model 158 Stepping 13 GenuineIntel ~3600 Mhz
+BIOS Version:              American Megatrends Inc. G15CX.302, 5/28/2020
+Windows Directory:         C:\WINDOWS
+System Directory:          C:\WINDOWS\system32
+Boot Device:               \Device\HarddiskVolume2
+System Locale:             en-us;English (United States)
+Input Locale:              en-us;English (United States)
+Time Zone:                 (UTC-08:00) Pacific Time (US & Canada)
+Total Physical Memory:     16,302 MB
+Available Physical Memory: 9,723 MB
+Virtual Memory: Max Size:  24,494 MB
+Virtual Memory: Available: 12,040 MB
+Virtual Memory: In Use:    12,454 MB
+Page File Location(s):     C:\pagefile.sys
+Domain:                    WORKGROUP
+Logon Server:              \\DESKTOP-8ICD6L6
+Hotfix(s):                 4 Hotfix(s) Installed.
+                           [01]: KB5027119
+                           [02]: KB5012170
+                           [03]: KB5027231
+                           [04]: KB5026549
+Network Card(s):           2 NIC(s) Installed.
+                           [01]: Intel(R) Wireless-AC 9560 160MHz
+                                 Connection Name: Wi-Fi
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     192.168.0.1
+                                 IP address(es)
+                                 [01]: 192.168.0.11
+                                 [02]: fe80::c21b:4b91:f575:16e0
+                                 [03]: 2600:8801:9d21:d400:c033:2461:7125:f464
+                                 [04]: 2600:8801:9d21:d400:8c7:f95c:7b7e:a4f
+                                 [05]: 2600:8801:9d21:d400::4b6e
+                           [02]: Intel(R) Ethernet Connection (7) I219-V
+                                 Connection Name: Ethernet
+                                 Status:          Media disconnected
+Hyper-V Requirements:      VM Monitor Mode Extensions: Yes
+                           Virtualization Enabled In Firmware: Yes
+                           Second Level Address Translation: Yes
+                           Data Execution Prevention Available: Yes

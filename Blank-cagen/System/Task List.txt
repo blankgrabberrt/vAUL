@@ -1,0 +1,2063 @@
+Image Name:   System Idle Process
+PID:          0
+Session Name: Services
+Session#:     0
+Mem Usage:    8 K
+
+Image Name:   System
+PID:          4
+Session Name: Services
+Session#:     0
+Mem Usage:    13,624 K
+
+Image Name:   Registry
+PID:          152
+Session Name: Services
+Session#:     0
+Mem Usage:    55,204 K
+
+Image Name:   smss.exe
+PID:          660
+Session Name: Services
+Session#:     0
+Mem Usage:    1,032 K
+
+Image Name:   csrss.exe
+PID:          992
+Session Name: Services
+Session#:     0
+Mem Usage:    6,120 K
+
+Image Name:   wininit.exe
+PID:          768
+Session Name: Services
+Session#:     0
+Mem Usage:    5,992 K
+
+Image Name:   csrss.exe
+PID:          780
+Session Name: Console
+Session#:     1
+Mem Usage:    6,848 K
+
+Image Name:   winlogon.exe
+PID:          820
+Session Name: Console
+Session#:     1
+Mem Usage:    9,896 K
+
+Image Name:   services.exe
+PID:          1072
+Session Name: Services
+Session#:     0
+Mem Usage:    10,988 K
+
+Image Name:   lsass.exe
+PID:          1092
+Session Name: Services
+Session#:     0
+Mem Usage:    27,372 K
+
+Image Name:   svchost.exe
+PID:          1224
+Session Name: Services
+Session#:     0
+Mem Usage:    25,272 K
+
+Image Name:   fontdrvhost.exe
+PID:          1248
+Session Name: Console
+Session#:     1
+Mem Usage:    10,168 K
+
+Image Name:   fontdrvhost.exe
+PID:          1256
+Session Name: Services
+Session#:     0
+Mem Usage:    3,028 K
+
+Image Name:   svchost.exe
+PID:          1360
+Session Name: Services
+Session#:     0
+Mem Usage:    16,804 K
+
+Image Name:   svchost.exe
+PID:          1412
+Session Name: Services
+Session#:     0
+Mem Usage:    8,480 K
+
+Image Name:   dwm.exe
+PID:          1488
+Session Name: Console
+Session#:     1
+Mem Usage:    69,592 K
+
+Image Name:   svchost.exe
+PID:          1584
+Session Name: Services
+Session#:     0
+Mem Usage:    15,956 K
+
+Image Name:   svchost.exe
+PID:          1608
+Session Name: Services
+Session#:     0
+Mem Usage:    9,904 K
+
+Image Name:   svchost.exe
+PID:          1616
+Session Name: Services
+Session#:     0
+Mem Usage:    9,860 K
+
+Image Name:   svchost.exe
+PID:          1692
+Session Name: Services
+Session#:     0
+Mem Usage:    5,556 K
+
+Image Name:   svchost.exe
+PID:          1732
+Session Name: Services
+Session#:     0
+Mem Usage:    7,768 K
+
+Image Name:   svchost.exe
+PID:          1856
+Session Name: Services
+Session#:     0
+Mem Usage:    11,092 K
+
+Image Name:   svchost.exe
+PID:          1880
+Session Name: Services
+Session#:     0
+Mem Usage:    9,512 K
+
+Image Name:   svchost.exe
+PID:          1916
+Session Name: Services
+Session#:     0
+Mem Usage:    16,412 K
+
+Image Name:   NVDisplay.Container.exe
+PID:          1120
+Session Name: Services
+Session#:     0
+Mem Usage:    19,128 K
+
+Image Name:   svchost.exe
+PID:          1476
+Session Name: Services
+Session#:     0
+Mem Usage:    6,216 K
+
+Image Name:   svchost.exe
+PID:          2084
+Session Name: Services
+Session#:     0
+Mem Usage:    18,072 K
+
+Image Name:   AsusCertService.exe
+PID:          2112
+Session Name: Services
+Session#:     0
+Mem Usage:    10,472 K
+
+Image Name:   svchost.exe
+PID:          2132
+Session Name: Services
+Session#:     0
+Mem Usage:    8,852 K
+
+Image Name:   svchost.exe
+PID:          2300
+Session Name: Services
+Session#:     0
+Mem Usage:    17,168 K
+
+Image Name:   svchost.exe
+PID:          2384
+Session Name: Services
+Session#:     0
+Mem Usage:    11,144 K
+
+Image Name:   svchost.exe
+PID:          2392
+Session Name: Services
+Session#:     0
+Mem Usage:    5,652 K
+
+Image Name:   svchost.exe
+PID:          2400
+Session Name: Services
+Session#:     0
+Mem Usage:    7,736 K
+
+Image Name:   svchost.exe
+PID:          2484
+Session Name: Services
+Session#:     0
+Mem Usage:    7,352 K
+
+Image Name:   svchost.exe
+PID:          2528
+Session Name: Services
+Session#:     0
+Mem Usage:    8,768 K
+
+Image Name:   NVDisplay.Container.exe
+PID:          2600
+Session Name: Console
+Session#:     1
+Mem Usage:    40,904 K
+
+Image Name:   svchost.exe
+PID:          2680
+Session Name: Services
+Session#:     0
+Mem Usage:    6,204 K
+
+Image Name:   svchost.exe
+PID:          2728
+Session Name: Services
+Session#:     0
+Mem Usage:    27,144 K
+
+Image Name:   svchost.exe
+PID:          2888
+Session Name: Services
+Session#:     0
+Mem Usage:    15,744 K
+
+Image Name:   atkexComSvc.exe
+PID:          2912
+Session Name: Services
+Session#:     0
+Mem Usage:    10,344 K
+
+Image Name:   WmiPrvSE.exe
+PID:          3444
+Session Name: Services
+Session#:     0
+Mem Usage:    10,592 K
+
+Image Name:   WmiPrvSE.exe
+PID:          3452
+Session Name: Services
+Session#:     0
+Mem Usage:    30,816 K
+
+Image Name:   svchost.exe
+PID:          3576
+Session Name: Services
+Session#:     0
+Mem Usage:    8,212 K
+
+Image Name:   svchost.exe
+PID:          3612
+Session Name: Services
+Session#:     0
+Mem Usage:    7,924 K
+
+Image Name:   svchost.exe
+PID:          3708
+Session Name: Services
+Session#:     0
+Mem Usage:    8,220 K
+
+Image Name:   svchost.exe
+PID:          3812
+Session Name: Services
+Session#:     0
+Mem Usage:    7,464 K
+
+Image Name:   svchost.exe
+PID:          3848
+Session Name: Services
+Session#:     0
+Mem Usage:    10,932 K
+
+Image Name:   svchost.exe
+PID:          3928
+Session Name: Services
+Session#:     0
+Mem Usage:    7,036 K
+
+Image Name:   svchost.exe
+PID:          3984
+Session Name: Services
+Session#:     0
+Mem Usage:    7,876 K
+
+Image Name:   svchost.exe
+PID:          3992
+Session Name: Services
+Session#:     0
+Mem Usage:    10,124 K
+
+Image Name:   svchost.exe
+PID:          3548
+Session Name: Services
+Session#:     0
+Mem Usage:    18,700 K
+
+Image Name:   svchost.exe
+PID:          3420
+Session Name: Services
+Session#:     0
+Mem Usage:    11,040 K
+
+Image Name:   AsusOptimization.exe
+PID:          3264
+Session Name: Services
+Session#:     0
+Mem Usage:    7,576 K
+
+Image Name:   spoolsv.exe
+PID:          3876
+Session Name: Services
+Session#:     0
+Mem Usage:    12,468 K
+
+Image Name:   svchost.exe
+PID:          4032
+Session Name: Services
+Session#:     0
+Mem Usage:    17,068 K
+
+Image Name:   svchost.exe
+PID:          4424
+Session Name: Services
+Session#:     0
+Mem Usage:    20,124 K
+
+Image Name:   ArmouryCrateControlInterface.exe
+PID:          4436
+Session Name: Services
+Session#:     0
+Mem Usage:    9,524 K
+
+Image Name:   svchost.exe
+PID:          4444
+Session Name: Services
+Session#:     0
+Mem Usage:    10,528 K
+
+Image Name:   svchost.exe
+PID:          4460
+Session Name: Services
+Session#:     0
+Mem Usage:    9,492 K
+
+Image Name:   mDNSResponder.exe
+PID:          4468
+Session Name: Services
+Session#:     0
+Mem Usage:    6,932 K
+
+Image Name:   ArmouryCrate.Service.exe
+PID:          4524
+Session Name: Services
+Session#:     0
+Mem Usage:    20,352 K
+
+Image Name:   svchost.exe
+PID:          4544
+Session Name: Services
+Session#:     0
+Mem Usage:    6,900 K
+
+Image Name:   AsusAppService.exe
+PID:          4552
+Session Name: Services
+Session#:     0
+Mem Usage:    18,840 K
+
+Image Name:   AsusSystemDiagnosis.exe
+PID:          4572
+Session Name: Services
+Session#:     0
+Mem Usage:    8,540 K
+
+Image Name:   NahimicService.exe
+PID:          4580
+Session Name: Services
+Session#:     0
+Mem Usage:    19,748 K
+
+Image Name:   AbmSvcHost.exe
+PID:          4588
+Session Name: Services
+Session#:     0
+Mem Usage:    12,716 K
+
+Image Name:   LogiRegistryService.exe
+PID:          4612
+Session Name: Services
+Session#:     0
+Mem Usage:    6,384 K
+
+Image Name:   CmWebAdmin.exe
+PID:          4620
+Session Name: Services
+Session#:     0
+Mem Usage:    16,376 K
+
+Image Name:   DevHookSvc.exe
+PID:          4636
+Session Name: Services
+Session#:     0
+Mem Usage:    5,948 K
+
+Image Name:   AsusSoftwareManager.exe
+PID:          4644
+Session Name: Services
+Session#:     0
+Mem Usage:    14,652 K
+
+Image Name:   LDSvc.exe
+PID:          4656
+Session Name: Services
+Session#:     0
+Mem Usage:    26,024 K
+
+Image Name:   Antares Central Services.exe
+PID:          4676
+Session Name: Services
+Session#:     0
+Mem Usage:    9,472 K
+
+Image Name:   AdobeUpdateService.exe
+PID:          4688
+Session Name: Services
+Session#:     0
+Mem Usage:    9,028 K
+
+Image Name:   svchost.exe
+PID:          4732
+Session Name: Services
+Session#:     0
+Mem Usage:    5,648 K
+
+Image Name:   nvcontainer.exe
+PID:          4740
+Session Name: Services
+Session#:     0
+Mem Usage:    38,468 K
+
+Image Name:   AsusSystemAnalysis.exe
+PID:          4748
+Session Name: Services
+Session#:     0
+Mem Usage:    12,128 K
+
+Image Name:   AsusLinkRemote.exe
+PID:          4780
+Session Name: Services
+Session#:     0
+Mem Usage:    8,764 K
+
+Image Name:   MMERefresh.exe
+PID:          4788
+Session Name: Services
+Session#:     0
+Mem Usage:    4,644 K
+
+Image Name:   PreSonusHardwareAccessService.exe
+PID:          4796
+Session Name: Services
+Session#:     0
+Mem Usage:    16,220 K
+
+Image Name:   svchost.exe
+PID:          4804
+Session Name: Services
+Session#:     0
+Mem Usage:    17,952 K
+
+Image Name:   WindowsInput.exe
+PID:          4824
+Session Name: Services
+Session#:     0
+Mem Usage:    14,112 K
+
+Image Name:   AsusSwitch.exe
+PID:          4840
+Session Name: Services
+Session#:     0
+Mem Usage:    7,240 K
+
+Image Name:   RazerCentralService.exe
+PID:          4848
+Session Name: Services
+Session#:     0
+Mem Usage:    365,292 K
+
+Image Name:   XtuService.exe
+PID:          4876
+Session Name: Services
+Session#:     0
+Mem Usage:    19,512 K
+
+Image Name:   WsNativePushService.exe
+PID:          4884
+Session Name: Services
+Session#:     0
+Mem Usage:    4,716 K
+
+Image Name:   AsusLinkNear.exe
+PID:          4900
+Session Name: Services
+Session#:     0
+Mem Usage:    11,832 K
+
+Image Name:   RtkAudUService64.exe
+PID:          4948
+Session Name: Services
+Session#:     0
+Mem Usage:    9,492 K
+
+Image Name:   EchoRes.exe
+PID:          4956
+Session Name: Services
+Session#:     0
+Mem Usage:    12,236 K
+
+Image Name:   MsMpEng.exe
+PID:          4996
+Session Name: Services
+Session#:     0
+Mem Usage:    26,576 K
+
+Image Name:   LightingService.exe
+PID:          5004
+Session Name: Services
+Session#:     0
+Mem Usage:    17,380 K
+
+Image Name:   wlanext.exe
+PID:          5016
+Session Name: Services
+Session#:     0
+Mem Usage:    7,096 K
+
+Image Name:   GameManagerService.exe
+PID:          5032
+Session Name: Services
+Session#:     0
+Mem Usage:    19,552 K
+
+Image Name:   RzSDKService.exe
+PID:          5100
+Session Name: Services
+Session#:     0
+Mem Usage:    8,036 K
+
+Image Name:   ROGLiveService.exe
+PID:          5108
+Session Name: Services
+Session#:     0
+Mem Usage:    12,888 K
+
+Image Name:   AGMService.exe
+PID:          1152
+Session Name: Services
+Session#:     0
+Mem Usage:    11,644 K
+
+Image Name:   AGSService.exe
+PID:          4156
+Session Name: Services
+Session#:     0
+Mem Usage:    13,452 K
+
+Image Name:   conhost.exe
+PID:          4144
+Session Name: Services
+Session#:     0
+Mem Usage:    4,708 K
+
+Image Name:   RstMwService.exe
+PID:          5184
+Session Name: Services
+Session#:     0
+Mem Usage:    7,080 K
+
+Image Name:   RzChromaStreamServer.exe
+PID:          5192
+Session Name: Services
+Session#:     0
+Mem Usage:    7,892 K
+
+Image Name:   RzSDKServer.exe
+PID:          5304
+Session Name: Services
+Session#:     0
+Mem Usage:    9,616 K
+
+Image Name:   OfficeClickToRun.exe
+PID:          5376
+Session Name: Services
+Session#:     0
+Mem Usage:    35,920 K
+
+Image Name:   CodeMeter.exe
+PID:          5384
+Session Name: Services
+Session#:     0
+Mem Usage:    28,700 K
+
+Image Name:   LMS.exe
+PID:          5500
+Session Name: Services
+Session#:     0
+Mem Usage:    9,516 K
+
+Image Name:   svchost.exe
+PID:          5684
+Session Name: Services
+Session#:     0
+Mem Usage:    9,136 K
+
+Image Name:   jhi_service.exe
+PID:          5924
+Session Name: Services
+Session#:     0
+Mem Usage:    5,308 K
+
+Image Name:   svchost.exe
+PID:          5972
+Session Name: Services
+Session#:     0
+Mem Usage:    11,912 K
+
+Image Name:   Intel_PIE_Service.exe
+PID:          6124
+Session Name: Services
+Session#:     0
+Mem Usage:    8,004 K
+
+Image Name:   unsecapp.exe
+PID:          6484
+Session Name: Services
+Session#:     0
+Mem Usage:    7,152 K
+
+Image Name:   rundll32.exe
+PID:          7864
+Session Name: Console
+Session#:     1
+Mem Usage:    6,372 K
+
+Image Name:   Razer Synapse Service.exe
+PID:          7316
+Session Name: Services
+Session#:     0
+Mem Usage:    29,700 K
+
+Image Name:   Aac3572MbHal_x86.exe
+PID:          3952
+Session Name: Services
+Session#:     0
+Mem Usage:    8,312 K
+
+Image Name:   svchost.exe
+PID:          4480
+Session Name: Services
+Session#:     0
+Mem Usage:    6,900 K
+
+Image Name:   svchost.exe
+PID:          9028
+Session Name: Services
+Session#:     0
+Mem Usage:    9,180 K
+
+Image Name:   svchost.exe
+PID:          9136
+Session Name: Services
+Session#:     0
+Mem Usage:    7,748 K
+
+Image Name:   AsusOptimizationStartupTask.exe
+PID:          4356
+Session Name: Console
+Session#:     1
+Mem Usage:    14,940 K
+
+Image Name:   ArmouryCrateKeyControl.exe
+PID:          7724
+Session Name: Console
+Session#:     1
+Mem Usage:    26,648 K
+
+Image Name:   ACCIMonitor.exe
+PID:          8520
+Session Name: Console
+Session#:     1
+Mem Usage:    8,964 K
+
+Image Name:   nvcontainer.exe
+PID:          8580
+Session Name: Console
+Session#:     1
+Mem Usage:    70,492 K
+
+Image Name:   SearchIndexer.exe
+PID:          8628
+Session Name: Services
+Session#:     0
+Mem Usage:    37,568 K
+
+Image Name:   ArmouryCrate.UserSessionHelper.exe
+PID:          7784
+Session Name: Console
+Session#:     1
+Mem Usage:    24,940 K
+
+Image Name:   conhost.exe
+PID:          7780
+Session Name: Console
+Session#:     1
+Mem Usage:    5,512 K
+
+Image Name:   sihost.exe
+PID:          6656
+Session Name: Console
+Session#:     1
+Mem Usage:    41,640 K
+
+Image Name:   svchost.exe
+PID:          5148
+Session Name: Console
+Session#:     1
+Mem Usage:    20,668 K
+
+Image Name:   svchost.exe
+PID:          8896
+Session Name: Console
+Session#:     1
+Mem Usage:    7,488 K
+
+Image Name:   svchost.exe
+PID:          8936
+Session Name: Console
+Session#:     1
+Mem Usage:    23,640 K
+
+Image Name:   taskhostw.exe
+PID:          5876
+Session Name: Console
+Session#:     1
+Mem Usage:    19,244 K
+
+Image Name:   P508PowerAgent.exe
+PID:          8592
+Session Name: Console
+Session#:     1
+Mem Usage:    6,356 K
+
+Image Name:   ArmourySocketServer.exe
+PID:          9372
+Session Name: Console
+Session#:     1
+Mem Usage:    2,512 K
+
+Image Name:   asus_framework.exe
+PID:          9452
+Session Name: Console
+Session#:     1
+Mem Usage:    15,796 K
+
+Image Name:   svchost.exe
+PID:          9492
+Session Name: Services
+Session#:     0
+Mem Usage:    16,204 K
+
+Image Name:   svchost.exe
+PID:          9820
+Session Name: Services
+Session#:     0
+Mem Usage:    16,432 K
+
+Image Name:   svchost.exe
+PID:          9932
+Session Name: Services
+Session#:     0
+Mem Usage:    14,428 K
+
+Image Name:   explorer.exe
+PID:          9948
+Session Name: Console
+Session#:     1
+Mem Usage:    260,612 K
+
+Image Name:   NahimicSvc64.exe
+PID:          10128
+Session Name: Console
+Session#:     1
+Mem Usage:    5,468 K
+
+Image Name:   NahimicSvc32.exe
+PID:          10136
+Session Name: Console
+Session#:     1
+Mem Usage:    7,208 K
+
+Image Name:   svchost.exe
+PID:          10256
+Session Name: Console
+Session#:     1
+Mem Usage:    43,652 K
+
+Image Name:   svchost.exe
+PID:          10344
+Session Name: Services
+Session#:     0
+Mem Usage:    12,628 K
+
+Image Name:   SearchHost.exe
+PID:          11144
+Session Name: Console
+Session#:     1
+Mem Usage:    273,960 K
+
+Image Name:   StartMenuExperienceHost.exe
+PID:          11156
+Session Name: Console
+Session#:     1
+Mem Usage:    70,732 K
+
+Image Name:   Widgets.exe
+PID:          11196
+Session Name: Console
+Session#:     1
+Mem Usage:    23,940 K
+
+Image Name:   RuntimeBroker.exe
+PID:          11260
+Session Name: Console
+Session#:     1
+Mem Usage:    19,264 K
+
+Image Name:   RuntimeBroker.exe
+PID:          9360
+Session Name: Console
+Session#:     1
+Mem Usage:    34,944 K
+
+Image Name:   svchost.exe
+PID:          11324
+Session Name: Console
+Session#:     1
+Mem Usage:    11,700 K
+
+Image Name:   dllhost.exe
+PID:          11800
+Session Name: Console
+Session#:     1
+Mem Usage:    17,572 K
+
+Image Name:   NVIDIA Web Helper.exe
+PID:          11376
+Session Name: Console
+Session#:     1
+Mem Usage:    2,848 K
+
+Image Name:   conhost.exe
+PID:          11292
+Session Name: Console
+Session#:     1
+Mem Usage:    792 K
+
+Image Name:   GoogleCrashHandler.exe
+PID:          11560
+Session Name: Services
+Session#:     0
+Mem Usage:    1,076 K
+
+Image Name:   GoogleCrashHandler64.exe
+PID:          12192
+Session Name: Services
+Session#:     0
+Mem Usage:    804 K
+
+Image Name:   ctfmon.exe
+PID:          12824
+Session Name: Console
+Session#:     1
+Mem Usage:    24,984 K
+
+Image Name:   ArmourySwAgent.exe
+PID:          12500
+Session Name: Console
+Session#:     1
+Mem Usage:    1,688 K
+
+Image Name:   TextInputHost.exe
+PID:          8736
+Session Name: Console
+Session#:     1
+Mem Usage:    126,316 K
+
+Image Name:   SecurityHealthSystray.exe
+PID:          11212
+Session Name: Console
+Session#:     1
+Mem Usage:    10,260 K
+
+Image Name:   SecurityHealthService.exe
+PID:          11368
+Session Name: Services
+Session#:     0
+Mem Usage:    16,684 K
+
+Image Name:   RtkAudUService64.exe
+PID:          11760
+Session Name: Console
+Session#:     1
+Mem Usage:    9,092 K
+
+Image Name:   LCore.exe
+PID:          7708
+Session Name: Console
+Session#:     1
+Mem Usage:    26,116 K
+
+Image Name:   LCDMedia.exe
+PID:          9304
+Session Name: Console
+Session#:     1
+Mem Usage:    19,164 K
+
+Image Name:   LCDCountdown.exe
+PID:          1268
+Session Name: Console
+Session#:     1
+Mem Usage:    10,120 K
+
+Image Name:   LCDClock.exe
+PID:          1308
+Session Name: Console
+Session#:     1
+Mem Usage:    11,292 K
+
+Image Name:   LCDPOP3.exe
+PID:          1764
+Session Name: Console
+Session#:     1
+Mem Usage:    12,760 K
+
+Image Name:   LCDRSS.exe
+PID:          1900
+Session Name: Console
+Session#:     1
+Mem Usage:    18,080 K
+
+Image Name:   Medal.exe
+PID:          13564
+Session Name: Console
+Session#:     1
+Mem Usage:    122,492 K
+
+Image Name:   Universal Control.exe
+PID:          13584
+Session Name: Console
+Session#:     1
+Mem Usage:    31,308 K
+
+Image Name:   Medal.exe
+PID:          13356
+Session Name: Console
+Session#:     1
+Mem Usage:    26,160 K
+
+Image Name:   Lightgallery.exe
+PID:          14608
+Session Name: Console
+Session#:     1
+Mem Usage:    28,052 K
+
+Image Name:   Medal.exe
+PID:          15560
+Session Name: Console
+Session#:     1
+Mem Usage:    78,708 K
+
+Image Name:   webcord.exe
+PID:          15784
+Session Name: Console
+Session#:     1
+Mem Usage:    33,912 K
+
+Image Name:   Medal.exe
+PID:          16176
+Session Name: Console
+Session#:     1
+Mem Usage:    28,760 K
+
+Image Name:   Swifty.exe
+PID:          14572
+Session Name: Console
+Session#:     1
+Mem Usage:    42,104 K
+
+Image Name:   Razer Synapse 3.exe
+PID:          17004
+Session Name: Console
+Session#:     1
+Mem Usage:    33,260 K
+
+Image Name:   Overwolf.exe
+PID:          17136
+Session Name: Console
+Session#:     1
+Mem Usage:    119,660 K
+
+Image Name:   thunderbird.exe
+PID:          16448
+Session Name: Console
+Session#:     1
+Mem Usage:    12,864 K
+
+Image Name:   Medal.exe
+PID:          17696
+Session Name: Console
+Session#:     1
+Mem Usage:    47,120 K
+
+Image Name:   Medal.exe
+PID:          17740
+Session Name: Console
+Session#:     1
+Mem Usage:    197,268 K
+
+Image Name:   client32.exe
+PID:          18268
+Session Name: Console
+Session#:     1
+Mem Usage:    2,616 K
+
+Image Name:   Razer Central.exe
+PID:          18356
+Session Name: Console
+Session#:     1
+Mem Usage:    63,812 K
+
+Image Name:   CCXProcess.exe
+PID:          18460
+Session Name: Console
+Session#:     1
+Mem Usage:    2,584 K
+
+Image Name:   node.exe
+PID:          18488
+Session Name: Console
+Session#:     1
+Mem Usage:    41,692 K
+
+Image Name:   conhost.exe
+PID:          18520
+Session Name: Console
+Session#:     1
+Mem Usage:    5,472 K
+
+Image Name:   WavesLocalServer.exe
+PID:          18800
+Session Name: Console
+Session#:     1
+Mem Usage:    14,228 K
+
+Image Name:   WSHelper.exe
+PID:          18836
+Session Name: Console
+Session#:     1
+Mem Usage:    13,932 K
+
+Image Name:   svchost.exe
+PID:          18852
+Session Name: Services
+Session#:     0
+Mem Usage:    5,588 K
+
+Image Name:   AdobeIPCBroker.exe
+PID:          18992
+Session Name: Console
+Session#:     1
+Mem Usage:    11,780 K
+
+Image Name:   CodeMeterCC.exe
+PID:          19264
+Session Name: Console
+Session#:     1
+Mem Usage:    21,236 K
+
+Image Name:   jusched.exe
+PID:          19276
+Session Name: Console
+Session#:     1
+Mem Usage:    8,272 K
+
+Image Name:   videos.exe
+PID:          19412
+Session Name: Console
+Session#:     1
+Mem Usage:    44,528 K
+
+Image Name:   videos.exe
+PID:          18108
+Session Name: Console
+Session#:     1
+Mem Usage:    8,768 K
+
+Image Name:   OverwolfBrowser.exe
+PID:          18100
+Session Name: Console
+Session#:     1
+Mem Usage:    11,572 K
+
+Image Name:   videos.exe
+PID:          17572
+Session Name: Console
+Session#:     1
+Mem Usage:    8,216 K
+
+Image Name:   Medal.exe
+PID:          19680
+Session Name: Console
+Session#:     1
+Mem Usage:    22,520 K
+
+Image Name:   OverwolfBrowser.exe
+PID:          19936
+Session Name: Console
+Session#:     1
+Mem Usage:    30,300 K
+
+Image Name:   videos.exe
+PID:          20304
+Session Name: Console
+Session#:     1
+Mem Usage:    26,956 K
+
+Image Name:   Adobe Desktop Service.exe
+PID:          20476
+Session Name: Console
+Session#:     1
+Mem Usage:    25,988 K
+
+Image Name:   Creative Cloud Helper.exe
+PID:          20660
+Session Name: Console
+Session#:     1
+Mem Usage:    21,596 K
+
+Image Name:   Creative Cloud Helper.exe
+PID:          20584
+Session Name: Console
+Session#:     1
+Mem Usage:    22,852 K
+
+Image Name:   CCLibrary.exe
+PID:          21172
+Session Name: Console
+Session#:     1
+Mem Usage:    2,736 K
+
+Image Name:   node.exe
+PID:          20380
+Session Name: Console
+Session#:     1
+Mem Usage:    38,788 K
+
+Image Name:   conhost.exe
+PID:          21124
+Session Name: Console
+Session#:     1
+Mem Usage:    5,664 K
+
+Image Name:   CoreSync.exe
+PID:          21352
+Session Name: Console
+Session#:     1
+Mem Usage:    23,500 K
+
+Image Name:   Intelligent standby list cleaner ISLC.exe
+PID:          20708
+Session Name: Console
+Session#:     1
+Mem Usage:    19,744 K
+
+Image Name:   asusns.exe
+PID:          17908
+Session Name: Console
+Session#:     1
+Mem Usage:    30,524 K
+
+Image Name:   videos.exe
+PID:          20964
+Session Name: Console
+Session#:     1
+Mem Usage:    29,712 K
+
+Image Name:   videos.exe
+PID:          17236
+Session Name: Console
+Session#:     1
+Mem Usage:    15,676 K
+
+Image Name:   videos.exe
+PID:          21156
+Session Name: Console
+Session#:     1
+Mem Usage:    32,644 K
+
+Image Name:   AvidAppManHelper.exe
+PID:          21844
+Session Name: Console
+Session#:     1
+Mem Usage:    7,472 K
+
+Image Name:   AvidAppManHelper.exe
+PID:          22104
+Session Name: Console
+Session#:     1
+Mem Usage:    7,628 K
+
+Image Name:   conhost.exe
+PID:          22172
+Session Name: Console
+Session#:     1
+Mem Usage:    5,596 K
+
+Image Name:   Lightgallery.exe
+PID:          22856
+Session Name: Console
+Session#:     1
+Mem Usage:    16,700 K
+
+Image Name:   CefSharp.BrowserSubprocess.exe
+PID:          23280
+Session Name: Console
+Session#:     1
+Mem Usage:    31,208 K
+
+Image Name:   CefSharp.BrowserSubprocess.exe
+PID:          23372
+Session Name: Console
+Session#:     1
+Mem Usage:    27,132 K
+
+Image Name:   OverwolfBrowser.exe
+PID:          23444
+Session Name: Console
+Session#:     1
+Mem Usage:    20,496 K
+
+Image Name:   Lightgallery.exe
+PID:          16872
+Session Name: Console
+Session#:     1
+Mem Usage:    18,300 K
+
+Image Name:   Lightgallery.exe
+PID:          19836
+Session Name: Console
+Session#:     1
+Mem Usage:    14,364 K
+
+Image Name:   OverwolfHelper.exe
+PID:          23380
+Session Name: Console
+Session#:     1
+Mem Usage:    24,488 K
+
+Image Name:   OverwolfBrowser.exe
+PID:          17464
+Session Name: Console
+Session#:     1
+Mem Usage:    8,928 K
+
+Image Name:   OverwolfHelper64.exe
+PID:          15400
+Session Name: Console
+Session#:     1
+Mem Usage:    20,200 K
+
+Image Name:   CefSharp.BrowserSubprocess.exe
+PID:          19092
+Session Name: Console
+Session#:     1
+Mem Usage:    24,588 K
+
+Image Name:   CefSharp.BrowserSubprocess.exe
+PID:          21636
+Session Name: Console
+Session#:     1
+Mem Usage:    30,016 K
+
+Image Name:   CefSharp.BrowserSubprocess.exe
+PID:          18248
+Session Name: Console
+Session#:     1
+Mem Usage:    74,240 K
+
+Image Name:   webcord.exe
+PID:          21584
+Session Name: Console
+Session#:     1
+Mem Usage:    28,916 K
+
+Image Name:   svchost.exe
+PID:          13728
+Session Name: Services
+Session#:     0
+Mem Usage:    13,060 K
+
+Image Name:   webcord.exe
+PID:          8728
+Session Name: Console
+Session#:     1
+Mem Usage:    22,732 K
+
+Image Name:   webcord.exe
+PID:          23656
+Session Name: Console
+Session#:     1
+Mem Usage:    22,212 K
+
+Image Name:   ShellExperienceHost.exe
+PID:          2416
+Session Name: Console
+Session#:     1
+Mem Usage:    75,236 K
+
+Image Name:   RuntimeBroker.exe
+PID:          24248
+Session Name: Console
+Session#:     1
+Mem Usage:    27,104 K
+
+Image Name:   Swifty.exe
+PID:          24528
+Session Name: Console
+Session#:     1
+Mem Usage:    37,716 K
+
+Image Name:   WsToastNotification.exe
+PID:          4768
+Session Name: Console
+Session#:     1
+Mem Usage:    11,388 K
+
+Image Name:   conhost.exe
+PID:          4860
+Session Name: Console
+Session#:     1
+Mem Usage:    8,044 K
+
+Image Name:   RuntimeBroker.exe
+PID:          740
+Session Name: Console
+Session#:     1
+Mem Usage:    21,420 K
+
+Image Name:   Swifty.exe
+PID:          6012
+Session Name: Console
+Session#:     1
+Mem Usage:    26,260 K
+
+Image Name:   Swifty.exe
+PID:          5044
+Session Name: Console
+Session#:     1
+Mem Usage:    21,120 K
+
+Image Name:   AsusOSD.exe
+PID:          24696
+Session Name: Console
+Session#:     1
+Mem Usage:    9,452 K
+
+Image Name:   Hub.exe
+PID:          15908
+Session Name: Services
+Session#:     0
+Mem Usage:    20,908 K
+
+Image Name:   TransportClient.exe
+PID:          15192
+Session Name: Services
+Session#:     0
+Mem Usage:    10,436 K
+
+Image Name:   svchost.exe
+PID:          19012
+Session Name: Services
+Session#:     0
+Mem Usage:    18,756 K
+
+Image Name:   svchost.exe
+PID:          19676
+Session Name: Services
+Session#:     0
+Mem Usage:    10,552 K
+
+Image Name:   SgrmBroker.exe
+PID:          20624
+Session Name: Services
+Session#:     0
+Mem Usage:    9,584 K
+
+Image Name:   svchost.exe
+PID:          14740
+Session Name: Services
+Session#:     0
+Mem Usage:    10,740 K
+
+Image Name:   svchost.exe
+PID:          20420
+Session Name: Services
+Session#:     0
+Mem Usage:    10,264 K
+
+Image Name:   svchost.exe
+PID:          23456
+Session Name: Console
+Session#:     1
+Mem Usage:    12,668 K
+
+Image Name:   AsusSoftwareManagerAgent.exe
+PID:          24972
+Session Name: Console
+Session#:     1
+Mem Usage:    42,200 K
+
+Image Name:   WidgetService.exe
+PID:          13852
+Session Name: Console
+Session#:     1
+Mem Usage:    21,960 K
+
+Image Name:   msedgewebview2.exe
+PID:          14332
+Session Name: Console
+Session#:     1
+Mem Usage:    10,596 K
+
+Image Name:   msedgewebview2.exe
+PID:          24348
+Session Name: Console
+Session#:     1
+Mem Usage:    8,784 K
+
+Image Name:   msedgewebview2.exe
+PID:          5076
+Session Name: Console
+Session#:     1
+Mem Usage:    8,908 K
+
+Image Name:   msedgewebview2.exe
+PID:          24588
+Session Name: Console
+Session#:     1
+Mem Usage:    3,480 K
+
+Image Name:   msedgewebview2.exe
+PID:          22092
+Session Name: Console
+Session#:     1
+Mem Usage:    156 K
+
+Image Name:   msedgewebview2.exe
+PID:          4724
+Session Name: Console
+Session#:     1
+Mem Usage:    2,564 K
+
+Image Name:   svchost.exe
+PID:          1908
+Session Name: Services
+Session#:     0
+Mem Usage:    9,956 K
+
+Image Name:   msedgewebview2.exe
+PID:          10664
+Session Name: Console
+Session#:     1
+Mem Usage:    3,592 K
+
+Image Name:   conhost.exe
+PID:          8200
+Session Name: Console
+Session#:     1
+Mem Usage:    1,492 K
+
+Image Name:   powershell.exe
+PID:          23236
+Session Name: Console
+Session#:     1
+Mem Usage:    49,392 K
+
+Image Name:   svchost.exe
+PID:          12124
+Session Name: Services
+Session#:     0
+Mem Usage:    8,796 K
+
+Image Name:   conhost.exe
+PID:          20588
+Session Name: Console
+Session#:     1
+Mem Usage:    1,316 K
+
+Image Name:   powershell.exe
+PID:          13592
+Session Name: Console
+Session#:     1
+Mem Usage:    47,488 K
+
+Image Name:   ApplicationFrameHost.exe
+PID:          23800
+Session Name: Console
+Session#:     1
+Mem Usage:    28,144 K
+
+Image Name:   svchost.exe
+PID:          24856
+Session Name: Console
+Session#:     1
+Mem Usage:    14,548 K
+
+Image Name:   svchost.exe
+PID:          6336
+Session Name: Services
+Session#:     0
+Mem Usage:    7,992 K
+
+Image Name:   svchost.exe
+PID:          5988
+Session Name: Services
+Session#:     0
+Mem Usage:    6,480 K
+
+Image Name:   DataExchangeHost.exe
+PID:          22292
+Session Name: Console
+Session#:     1
+Mem Usage:    31,216 K
+
+Image Name:   svchost.exe
+PID:          13556
+Session Name: Services
+Session#:     0
+Mem Usage:    12,960 K
+
+Image Name:   SystemSettingsBroker.exe
+PID:          12732
+Session Name: Console
+Session#:     1
+Mem Usage:    19,500 K
+
+Image Name:   svchost.exe
+PID:          23432
+Session Name: Console
+Session#:     1
+Mem Usage:    9,432 K
+
+Image Name:   svchost.exe
+PID:          10008
+Session Name: Services
+Session#:     0
+Mem Usage:    6,164 K
+
+Image Name:   EpicGamesLauncher.exe
+PID:          24740
+Session Name: Console
+Session#:     1
+Mem Usage:    113,636 K
+
+Image Name:   EpicWebHelper.exe
+PID:          14624
+Session Name: Console
+Session#:     1
+Mem Usage:    36,624 K
+
+Image Name:   EpicWebHelper.exe
+PID:          9616
+Session Name: Console
+Session#:     1
+Mem Usage:    22,812 K
+
+Image Name:   conhost.exe
+PID:          15052
+Session Name: Console
+Session#:     1
+Mem Usage:    6,732 K
+
+Image Name:   powershell.exe
+PID:          25016
+Session Name: Console
+Session#:     1
+Mem Usage:    40,144 K
+
+Image Name:   Medal.exe
+PID:          9168
+Session Name: Console
+Session#:     1
+Mem Usage:    25,280 K
+
+Image Name:   conhost.exe
+PID:          16720
+Session Name: Console
+Session#:     1
+Mem Usage:    9,052 K
+
+Image Name:   MedalEncoder.exe
+PID:          8408
+Session Name: Console
+Session#:     1
+Mem Usage:    108,444 K
+
+Image Name:   crashpad_handler.exe
+PID:          9220
+Session Name: Console
+Session#:     1
+Mem Usage:    8,968 K
+
+Image Name:   svchost.exe
+PID:          19400
+Session Name: Services
+Session#:     0
+Mem Usage:    8,756 K
+
+Image Name:   dllhost.exe
+PID:          25072
+Session Name: Console
+Session#:     1
+Mem Usage:    18,940 K
+
+Image Name:   conhost.exe
+PID:          13428
+Session Name: Console
+Session#:     1
+Mem Usage:    1,052 K
+
+Image Name:   powershell.exe
+PID:          23968
+Session Name: Console
+Session#:     1
+Mem Usage:    45,276 K
+
+Image Name:   cmd.exe
+PID:          13836
+Session Name: Console
+Session#:     1
+Mem Usage:    2,172 K
+
+Image Name:   conhost.exe
+PID:          5292
+Session Name: Console
+Session#:     1
+Mem Usage:    1,244 K
+
+Image Name:   powershell.exe
+PID:          1232
+Session Name: Console
+Session#:     1
+Mem Usage:    49,616 K
+
+Image Name:   cmd.exe
+PID:          19284
+Session Name: Console
+Session#:     1
+Mem Usage:    2,172 K
+
+Image Name:   conhost.exe
+PID:          7884
+Session Name: Console
+Session#:     1
+Mem Usage:    1,060 K
+
+Image Name:   powershell.exe
+PID:          21836
+Session Name: Console
+Session#:     1
+Mem Usage:    46,800 K
+
+Image Name:   svchost.exe
+PID:          7752
+Session Name: Services
+Session#:     0
+Mem Usage:    8,572 K
+
+Image Name:   Discord.exe
+PID:          8744
+Session Name: Console
+Session#:     1
+Mem Usage:    267,820 K
+
+Image Name:   Discord.exe
+PID:          4512
+Session Name: Console
+Session#:     1
+Mem Usage:    29,924 K
+
+Image Name:   Discord.exe
+PID:          4400
+Session Name: Console
+Session#:     1
+Mem Usage:    72,140 K
+
+Image Name:   Discord.exe
+PID:          24480
+Session Name: Console
+Session#:     1
+Mem Usage:    48,528 K
+
+Image Name:   Discord.exe
+PID:          14220
+Session Name: Console
+Session#:     1
+Mem Usage:    527,944 K
+
+Image Name:   Discord.exe
+PID:          1684
+Session Name: Console
+Session#:     1
+Mem Usage:    67,008 K
+
+Image Name:   smartscreen.exe
+PID:          17692
+Session Name: Console
+Session#:     1
+Mem Usage:    10,732 K
+
+Image Name:   audiodg.exe
+PID:          3356
+Session Name: Services
+Session#:     0
+Mem Usage:    14,144 K
+
+Image Name:   svchost.exe
+PID:          19768
+Session Name: Services
+Session#:     0
+Mem Usage:    8,028 K
+
+Image Name:   TrustedInstaller.exe
+PID:          14720
+Session Name: Services
+Session#:     0
+Mem Usage:    8,760 K
+
+Image Name:   TiWorker.exe
+PID:          12168
+Session Name: Services
+Session#:     0
+Mem Usage:    14,024 K
+
+Image Name:   svchost.exe
+PID:          21112
+Session Name: Services
+Session#:     0
+Mem Usage:    18,888 K
+
+Image Name:   svchost.exe
+PID:          10996
+Session Name: Services
+Session#:     0
+Mem Usage:    11,676 K
+
+Image Name:   msedge.exe
+PID:          6132
+Session Name: Console
+Session#:     1
+Mem Usage:    154,152 K
+
+Image Name:   msedge.exe
+PID:          15356
+Session Name: Console
+Session#:     1
+Mem Usage:    11,140 K
+
+Image Name:   msedge.exe
+PID:          17168
+Session Name: Console
+Session#:     1
+Mem Usage:    47,400 K
+
+Image Name:   msedge.exe
+PID:          22204
+Session Name: Console
+Session#:     1
+Mem Usage:    45,908 K
+
+Image Name:   msedge.exe
+PID:          5028
+Session Name: Console
+Session#:     1
+Mem Usage:    20,260 K
+
+Image Name:   msedge.exe
+PID:          18620
+Session Name: Console
+Session#:     1
+Mem Usage:    141,872 K
+
+Image Name:   msedge.exe
+PID:          22120
+Session Name: Console
+Session#:     1
+Mem Usage:    32,016 K
+
+Image Name:   WmiPrvSE.exe
+PID:          8752
+Session Name: Services
+Session#:     0
+Mem Usage:    12,808 K
+
+Image Name:   svchost.exe
+PID:          8208
+Session Name: Services
+Session#:     0
+Mem Usage:    20,624 K
+
+Image Name:   builder.exe
+PID:          3464
+Session Name: Console
+Session#:     1
+Mem Usage:    6,024 K
+
+Image Name:   builder.exe
+PID:          20724
+Session Name: Console
+Session#:     1
+Mem Usage:    45,320 K
+
+Image Name:   cmd.exe
+PID:          22960
+Session Name: Console
+Session#:     1
+Mem Usage:    4,228 K
+
+Image Name:   cmd.exe
+PID:          14076
+Session Name: Console
+Session#:     1
+Mem Usage:    4,276 K
+
+Image Name:   conhost.exe
+PID:          23960
+Session Name: Console
+Session#:     1
+Mem Usage:    14,004 K
+
+Image Name:   conhost.exe
+PID:          19180
+Session Name: Console
+Session#:     1
+Mem Usage:    14,024 K
+
+Image Name:   powershell.exe
+PID:          21880
+Session Name: Console
+Session#:     1
+Mem Usage:    75,516 K
+
+Image Name:   powershell.exe
+PID:          19900
+Session Name: Console
+Session#:     1
+Mem Usage:    75,348 K
+
+Image Name:   cmd.exe
+PID:          11840
+Session Name: Console
+Session#:     1
+Mem Usage:    4,236 K
+
+Image Name:   cmd.exe
+PID:          4016
+Session Name: Console
+Session#:     1
+Mem Usage:    4,244 K
+
+Image Name:   cmd.exe
+PID:          23748
+Session Name: Console
+Session#:     1
+Mem Usage:    4,240 K
+
+Image Name:   cmd.exe
+PID:          2820
+Session Name: Console
+Session#:     1
+Mem Usage:    4,240 K
+
+Image Name:   cmd.exe
+PID:          12476
+Session Name: Console
+Session#:     1
+Mem Usage:    4,240 K
+
+Image Name:   conhost.exe
+PID:          13828
+Session Name: Console
+Session#:     1
+Mem Usage:    13,988 K
+
+Image Name:   cmd.exe
+PID:          1428
+Session Name: Console
+Session#:     1
+Mem Usage:    4,240 K
+
+Image Name:   conhost.exe
+PID:          24572
+Session Name: Console
+Session#:     1
+Mem Usage:    14,156 K
+
+Image Name:   conhost.exe
+PID:          3788
+Session Name: Console
+Session#:     1
+Mem Usage:    13,976 K
+
+Image Name:   cmd.exe
+PID:          3656
+Session Name: Console
+Session#:     1
+Mem Usage:    4,240 K
+
+Image Name:   conhost.exe
+PID:          18076
+Session Name: Console
+Session#:     1
+Mem Usage:    14,016 K
+
+Image Name:   conhost.exe
+PID:          6440
+Session Name: Console
+Session#:     1
+Mem Usage:    13,988 K
+
+Image Name:   cmd.exe
+PID:          5416
+Session Name: Console
+Session#:     1
+Mem Usage:    4,240 K
+
+Image Name:   conhost.exe
+PID:          21944
+Session Name: Console
+Session#:     1
+Mem Usage:    14,008 K
+
+Image Name:   cmd.exe
+PID:          19004
+Session Name: Console
+Session#:     1
+Mem Usage:    4,276 K
+
+Image Name:   conhost.exe
+PID:          19140
+Session Name: Console
+Session#:     1
+Mem Usage:    14,004 K
+
+Image Name:   conhost.exe
+PID:          15280
+Session Name: Console
+Session#:     1
+Mem Usage:    13,996 K
+
+Image Name:   conhost.exe
+PID:          24448
+Session Name: Console
+Session#:     1
+Mem Usage:    14,008 K
+
+Image Name:   conhost.exe
+PID:          10820
+Session Name: Console
+Session#:     1
+Mem Usage:    14,020 K
+
+Image Name:   cmd.exe
+PID:          21840
+Session Name: Console
+Session#:     1
+Mem Usage:    4,424 K
+
+Image Name:   conhost.exe
+PID:          5132
+Session Name: Console
+Session#:     1
+Mem Usage:    13,968 K
+
+Image Name:   powershell.exe
+PID:          22680
+Session Name: Console
+Session#:     1
+Mem Usage:    48,636 K
+
+Image Name:   tasklist.exe
+PID:          11764
+Session Name: Console
+Session#:     1
+Mem Usage:    9,944 K
+
+Image Name:   tasklist.exe
+PID:          3636
+Session Name: Console
+Session#:     1
+Mem Usage:    9,720 K
+
+Image Name:   tasklist.exe
+PID:          23620
+Session Name: Console
+Session#:     1
+Mem Usage:    9,700 K
+
+Image Name:   netsh.exe
+PID:          6404
+Session Name: Console
+Session#:     1
+Mem Usage:    13,804 K
+
+Image Name:   tree.com
+PID:          15456
+Session Name: Console
+Session#:     1
+Mem Usage:    3,936 K
+
+Image Name:   tasklist.exe
+PID:          23156
+Session Name: Console
+Session#:     1
+Mem Usage:    9,692 K
+
+Image Name:   systeminfo.exe
+PID:          20276
+Session Name: Console
+Session#:     1
+Mem Usage:    9,476 K
+
+Image Name:   Camera.exe
+PID:          728
+Session Name: Console
+Session#:     1
+Mem Usage:    12,268 K
+
+Image Name:   tasklist.exe
+PID:          2780
+Session Name: Console
+Session#:     1
+Mem Usage:    9,696 K
